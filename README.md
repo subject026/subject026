@@ -1,3 +1,3 @@
 # heyy
 
-just trying out my readme...
+just setting up my readme
